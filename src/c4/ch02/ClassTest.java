@@ -20,7 +20,5 @@ public class ClassTest {
 		Object[] initargs = {"김유신"};
 		Person personLee = (Person)cons.newInstance(initargs);
 		System.out.println(personLee);
-}
-
-
+	}
 }
